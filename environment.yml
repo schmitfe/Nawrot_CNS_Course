@@ -1,0 +1,13 @@
+name: nawrot-cns-course
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipython
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
